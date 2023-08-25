@@ -1,0 +1,28 @@
+.icon-hover:hover {
+  border-color: #3b71ca !important;
+  background-color: white !important;
+}
+
+.icon-hover:hover i {
+  color: #3b71ca !important;
+}
+
+/* utilites  */
+.text-primary {
+  color: #219ebc !important;
+}
+.bg-primary, .btn-primary {
+  background-color: #219ebc !important;
+}
+.bg-success {
+  background-color: #023047 !important;
+}
+
+/* hero  */
+#hero {
+  height: 350px;
+  background-image: url('../images/hero_2-removebg-preview.png');
+  background-position: top;
+  background-size: 45%;
+  background-repeat: no-repeat;
+}
